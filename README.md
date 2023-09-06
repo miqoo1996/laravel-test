@@ -7,3 +7,4 @@ Laravel Framework 10.21.1 & PHP 8.1
 4. php artisan key:generate
 5. php artisan migrate:fresh --seed
 6. php artisan serve
+7. Admin Credentials: admin@gmail.com / secret
